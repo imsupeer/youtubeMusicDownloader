@@ -1,1 +1,2 @@
 # youtubeMusicDownloader
+Note: This is just a re-upload of an old project that allows enter a youtube url and download it in a .mp3 file, so idk if this still works(prob not), but if you want to try u gonna need download and install ffmpeg
