@@ -64,7 +64,7 @@ A local-first app that converts YouTube videos and playlists into tagged MP3 fil
 ## Project Structure
 
 ```
-youtubeMusicDownloader/
+youtube-music-downloader/
 ├── api/
 │   ├── main.py              # FastAPI app + SSE endpoint
 │   └── static/              # Web UI (index.html, app.js)
@@ -119,8 +119,8 @@ sudo apt update && sudo apt install ffmpeg
 ### Installation
 
 ```bash
-git clone https://github.com/imsupeer/youtubeMusicDownloader.git
-cd youtubeMusicDownloader
+git clone https://github.com/imsupeer/youtube-music-downloader.git
+cd youtube-music-downloader
 
 python -m venv .venv
 
