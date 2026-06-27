@@ -1,3 +1,7 @@
-yt-dlp==2024.08.06
-PySide6==6.7.2
-mutagen==1.47.0
+yt-dlp>=2025.1.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+PySide6>=6.7.2
+mutagen>=1.47.0
