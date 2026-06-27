@@ -10,10 +10,6 @@
 A local-first app that converts YouTube videos and playlists into tagged MP3 files. Ships with a **FastAPI web UI** (SSE live progress) and an optional **PySide6 desktop app**.
 
 <p align="center">
-  <img src="assets/banner.png" alt="YouTube MP3 Downloader banner" width="100%">
-</p>
-
-<p align="center">
   <img src="assets/screenshot.png" alt="Application screenshot" width="720">
 </p>
 
